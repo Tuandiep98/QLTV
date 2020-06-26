@@ -107,8 +107,8 @@ public class Form_DoiMatKhau extends JFrame {
         pnlAction.add(btnboqua);
         jf.add(pnlAction, BorderLayout.SOUTH);
         //
-		btnluu.setIcon(new ImageIcon("C:\\Users\\USER\\Documents\\NetBeansProjects\\QLTV\\src\\Icon\\Tick.png"));
-		btnboqua.setIcon(new ImageIcon("C:\\Users\\USER\\Documents\\NetBeansProjects\\QLTV\\src\\Icon\\Delete.png"));
+		btnluu.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\QLTV\\QLTV\\src\\Icon\\Tick.png"));
+		btnboqua.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\QLTV\\QLTV\\src\\Icon\\Delete.png"));
 
     }
 

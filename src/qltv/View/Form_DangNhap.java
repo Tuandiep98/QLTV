@@ -134,8 +134,8 @@ public class Form_DangNhap {
         btnExit.setFont(new Font("Tahoma", Font.BOLD, 13));
         frame.add(btnButton, BorderLayout.SOUTH);
         frame.add(panel);
-        btnDangNhap.setIcon(new ImageIcon("C:\\Users\\USER\\Documents\\NetBeansProjects\\QLTV\\src\\Icon\\Tick.png"));
-        btnExit.setIcon(new ImageIcon("C:\\Users\\USER\\Documents\\NetBeansProjects\\QLTV\\src\\Icon\\Exit.png"));
+        btnDangNhap.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\QLTV\\QLTV\\src\\Icon\\Tick.png"));
+        btnExit.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\QLTV\\QLTV\\src\\Icon\\Exit.png"));
         
     }
     
